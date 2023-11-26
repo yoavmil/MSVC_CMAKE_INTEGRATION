@@ -1,0 +1,3 @@
+C:/Users/User/source/repos/Sandbox/MSVC_CMAKE_INTEGRATION/MSVC_CMAKE_INTEGRATION/build/CMakeFiles/foo.dir
+C:/Users/User/source/repos/Sandbox/MSVC_CMAKE_INTEGRATION/MSVC_CMAKE_INTEGRATION/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/source/repos/Sandbox/MSVC_CMAKE_INTEGRATION/MSVC_CMAKE_INTEGRATION/build/CMakeFiles/ZERO_CHECK.dir

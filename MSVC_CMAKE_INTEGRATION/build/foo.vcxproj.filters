@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\source\repos\Sandbox\MSVC_CMAKE_INTEGRATION\MSVC_CMAKE_INTEGRATION\cmake_project\foo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\User\source\repos\Sandbox\MSVC_CMAKE_INTEGRATION\MSVC_CMAKE_INTEGRATION\cmake_project\foo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\source\repos\Sandbox\MSVC_CMAKE_INTEGRATION\MSVC_CMAKE_INTEGRATION\cmake_project\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A6C08123-0EFE-3EE8-8781-E9AA5C2F8D3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B571FE1E-87B5-3BCD-9C5A-F68A39796D79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

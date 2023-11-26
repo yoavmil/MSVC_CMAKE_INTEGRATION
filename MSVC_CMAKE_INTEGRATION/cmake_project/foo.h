@@ -1,0 +1,1 @@
+const char* lib_name();
